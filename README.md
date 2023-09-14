@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+HI im sheik 
+i completed my undergrad in Hindustan Institute of technology and science 
+im interested in lifting weights
 <!--
 **SheikMohamedAkbar/SheikMohamedAkbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
